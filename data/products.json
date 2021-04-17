@@ -1,0 +1,68 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Bag1",
+            "image": "./images/product7.jpg",
+            "price": 760,
+            "category": "Apple"
+        },
+        {
+            "id": 4,
+            "title": "Bag2",
+            "image": "./images/product13.jpg",
+            "price": 850,
+            "category": "Apple"
+        },
+        {
+            "id": 8,
+            "title": "Bag3",
+            "image": "./images/product4.jpg",
+            "price": 290,
+            "category": "Apple"
+        },
+        {
+            "id": 17,
+            "title": "Shoe2",
+            "image": "./images/product8.jpg",
+            "price": 550,
+            "category": "Samsung"
+        },
+        {
+            "id": 20,
+            "title": "Shoe1",
+            "image": "./images/product9.jpg",
+            "price": 270,
+            "category": "Samsung"
+        },
+        {
+            "id": 24,
+            "title": "Shoe3",
+            "image": "./images/product10.jpg",
+            "price": 500,
+            "category": "Samsung"
+        },
+        {
+            "id": 21,
+            "title": "Suit2",
+            "image": "./images/product2.jpg",
+            "price": 700,
+            "category": "Headphones"
+        },
+
+        {
+            "id": 25,
+            "title": "Shoe4",
+            "image": "./images/promo2.jpg",
+            "price": 450,
+            "category": "Samsung"
+        },
+        {
+            "id": 23,
+            "title": "Suit1",
+            "image": "./images/product5.jpg",
+            "price": 600,
+            "category": "Headphones"
+        }
+
+    ]
+}
